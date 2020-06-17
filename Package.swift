@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "ObjectMapper+Realm",
     platforms: [
-        .iOS(.v10),
+        .iOS(.v11),
         .tvOS(.v10),
         .macOS(.v10_10),
     ],
